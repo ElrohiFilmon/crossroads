@@ -7,7 +7,7 @@ _Read this in other languages:_
 
 ይህ ፕሮጀክት ለተጠቃሚ ምዝገባ እና ለአስተዳዳሪ አስተዳደር የተነደፈ የቴሌግራም ቦትን ተግባራዊ ያደርጋል። ቦት የተጠቃሚ ውሂብ መሰብሰብን ያመቻቻል እና የተመዘገቡ ተጠቃሚዎችን ለማስተዳደር የአስተዳዳሪ ፓነል ያቀርባል። የቴሌግራፍ ቤተ-መጽሐፍትን በመጠቀም በይነተገናኝ ባህሪያትን ያቀርባል እና ደህንነቱ የተጠበቀ ስራዎችን ያረጋግጣል።
 
-![Telegram Bot](./telegram_bot.png)
+![Telegram Bot](./telegram_bot_am.png)
 
 ## ቅድመ-ሁኔታዎች
 
@@ -27,7 +27,7 @@ _Read this in other languages:_
 ### ማከማቻውን ይዝጉ።
 
 ```bash
-git clone "https://github.com/ElrohiFilmon/telegramadminbotdp.git"
+git clone "https://github.com/ElrohiFilmon/crossroads.git"
 cd telegram-bot
 ```
 ወይም ይዘቱን ወደ ውስጥ ለማስገባት ዚፕ ፋይሉን ያግኙ እና አድርጉት። 

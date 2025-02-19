@@ -27,7 +27,7 @@ This project implements a Telegram bot designed for user registration and admin 
 First, clone the application from GitHub:
 
 ```bash
-git clone "https://github.com/ElrohiFilmon/telegramadminbotdp.git"
+git clone "https://github.com/ElrohiFilmon/crossroads.git"
 cd telegram-bot
 ```
 Or get the zip file and unzip to get the contents inside 
